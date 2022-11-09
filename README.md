@@ -5,3 +5,6 @@ WebML Marathon Project - Create an Object Classification with custom model train
 1. Clone this repository with `git clone https://github.com/cordovaputra/teachable-object-classification.git`
 2. Install NPM with `npm install`
 3. Run locally with `npm start`
+
+## Live Demo is Available
+Open the URL in `https://bit.ly/aiclassify`
