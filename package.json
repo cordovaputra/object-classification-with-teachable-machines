@@ -1,0 +1,33 @@
+{
+  "name": "teachable-object-classification",
+  "version": "1.0.0",
+  "description": "WebML Marathon Project - A JS boilerplate to create an Object Classification with custom model trained in Google's Teachable Machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cordovaputra/teachable-object-classification.git"
+  },
+  "keywords": [
+    "Machine",
+    "Learning",
+    "AI",
+    "WebML",
+    "Javascript"
+  ],
+  "author": "Cordova Putra Handri Ansyah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cordovaputra/teachable-object-classification/issues"
+  },
+  "homepage": "https://github.com/cordovaputra/teachable-object-classification#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
